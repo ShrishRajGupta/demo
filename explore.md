@@ -1,2 +1,8 @@
-# Main commit
-hello explore from main ....
+# small_changes commit
+hello explore from small_changes ....
+                ********    
+            ***************
+        **********************
+    ******************************
+    *******************************
+        ///*****************
